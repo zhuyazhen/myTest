@@ -10,4 +10,8 @@
     git commit -m 'first commit'
     git remote add origin https://github.com/zhuyazhen/myTest.git
     git push -u origin master
+
+        注：用户名和密码
+            username:zhuyahzne
+            password:名字缩写加电话号码
  -->
